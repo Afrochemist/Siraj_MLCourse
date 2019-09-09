@@ -2,6 +2,11 @@
 
 This repository contains projects from Siraj Raval's Machine learning Course. This course teaches people how to make applications in several industries.
 
-+ Introduction 
++ Chapter 1 Introduction 
 
-__Imae Classifier in Tensorflowjs__
+__Image Classifier in Tensorflowjs__
+
++ Chapter 2 Finance
+
+__Stock Price Prediction__
+
