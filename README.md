@@ -10,3 +10,6 @@ __Image Classifier in Tensorflowjs__
 
 __Stock Price Prediction__
 
++ Cybersecurity
+
+__Fraud Detection___
