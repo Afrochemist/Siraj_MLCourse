@@ -10,6 +10,10 @@ __Image Classifier in Tensorflowjs__
 
 __Stock Price Prediction__
 
-+ Cybersecurity
++ Chapter 3 Cybersecurity
 
 __Fraud Detection___
+
++ Chapter 4 
+
+__Healthcare__
