@@ -17,3 +17,15 @@ __Fraud Detection___
 + Chapter 4 
 
 __Healthcare__
+
++ Chapter 5
+
+__Transportation & Logistics__
+
++ Chapter 6 
+
+__Retail__
+
++ Chapter 7 
+
+__Agriculture__
